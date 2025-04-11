@@ -1,0 +1,60 @@
+{
+  "members": [
+    {
+      "id": "f339",
+      "cin": "123546",
+      "name": "mahdi",
+      "Type": "H",
+      "CreatedDate": "12-15-2025"
+    },
+    {
+      "id": "a500",
+      "cin": "123546",
+      "name": "zoubair",
+      "Type": "H",
+      "CreatedDate": "12-15-2025"
+    },
+    {
+      "id": "a362",
+      "cin": "123546789",
+      "name": "chema",
+      "Type": "F",
+      "CreatedDate": "12-15-2025"
+    },
+    {
+      "cin": "123546",
+      "name": "mahdi hadjkacem",
+      "Type": "H",
+      "CreatedDate": "12-15-2025",
+      "id": "f150"
+    }
+  ],
+  "evts": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "a17c"
+    },
+    {
+      "id": "d4d7",
+      "titre": null,
+      "dateDebut": "2025-04-07T22:00:00.000Z",
+      "dateFin": "2025-04-17T22:00:00.000Z",
+      "lieu": "sfax"
+    },
+    {
+      "id": "48a8"
+    },
+    {
+      "id": "0601"
+    },
+    {
+      "id": "bf22",
+      "titre": null,
+      "dateDebut": null,
+      "dateFin": null,
+      "lieu": null
+    }
+  ]
+}
